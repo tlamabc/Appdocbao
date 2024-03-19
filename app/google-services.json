@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "222177782093",
+    "project_id": "appdocbao1010",
+    "storage_bucket": "appdocbao1010.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222177782093:android:3085d131e1cdb4f85a2f04",
+        "android_client_info": {
+          "package_name": "com.example.appdocbao"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCsxO0eizpeWl94Yk6a05Gs-MzuZV9pMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

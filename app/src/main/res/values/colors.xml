@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="xanh">#03A9F4</color>
+    <color name="vang">#D5C11A</color>
+    <color name="xanhla">#40F321</color>
+    <color name="cam">#FF9800</color>
+    <color name="red">#F32516</color>
+
+</resources>
